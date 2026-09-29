@@ -1,0 +1,6 @@
+{
+  "name": "ইউপি হিসাব",
+  "description": "ইউনিয়ন পরিষদ উদ্যোক্তাদের জন্য একটি সহজ ও আধুনিক সেবার মূল্য ও ফি হিসাবরক্ষণ অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
